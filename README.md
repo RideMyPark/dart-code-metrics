@@ -1,3 +1,17 @@
+This repo is a fork of [dart-code-metrics](https://github.com/dart-code-checker/dart-code-metrics)
+repo.
+
+The free version of Dart Code Metrics as been deprecated and a new paid version is available at
+https://dcm.dev/pricing/. This fork only provides a support to maintain compatibility of the free
+version of DCM for those who cannot afford the paid version. No new features will be implemented and
+all credits goes to DCM team.
+
+These are the fixes that have been added:
+
+- chore: restrict `http` version to `>=0.13.0 <2.0.0`.
+
+---
+
 [![Build Status](https://shields.io/github/actions/workflow/status/dart-code-checker/dart-code-metrics/package_analyze.yaml?logo=github&logoColor=white&branch=master)](https://github.com/dart-code-checker/dart-code-metrics/)
 [![Coverage Status](https://img.shields.io/codecov/c/github/dart-code-checker/dart-code-metrics?logo=codecov&logoColor=white)](https://codecov.io/gh/dart-code-checker/dart-code-metrics/)
 [![Pub Version](https://img.shields.io/pub/v/dart_code_metrics?logo=dart&logoColor=white)](https://pub.dev/packages/dart_code_metrics/)
