@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+* chore: restrict `http` version to `>=0.13.0 <2.0.0`.
 * chore: restrict `analyzer` version to `>=5.1.0 <5.14.0`.
 
 ## 5.7.4
