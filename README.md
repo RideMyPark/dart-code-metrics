@@ -9,6 +9,7 @@ all credits goes to DCM team.
 These are the fixes that have been added:
 
 - chore: restrict `http` version to `>=0.13.0 <2.0.0`.
+- chore: restrict `uuid` version to `>=3.0.0 <4.1.0`.
 
 ---
 
