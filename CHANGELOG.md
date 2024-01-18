@@ -1,6 +1,6 @@
 # Changelog
 
-## NEXT
+## [FORK] 5.8.3
 
 * chore: restrict `uuid` version to `>=3.0.0 <5.0.0`.
 
